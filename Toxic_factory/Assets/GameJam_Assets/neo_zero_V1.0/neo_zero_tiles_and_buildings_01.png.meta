@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 35
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -122,10 +122,10 @@ TextureImporter:
       name: neo_zero_tiles_and_buildings_01_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 159
-        width: 180
-        height: 136
+        x: 48
+        y: 160
+        width: 178
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,10 +144,10 @@ TextureImporter:
       name: neo_zero_tiles_and_buildings_01_1
       rect:
         serializedVersion: 2
-        x: 175
-        y: 287
-        width: 145
-        height: 18
+        x: 176
+        y: 288
+        width: 144
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,10 +166,10 @@ TextureImporter:
       name: neo_zero_tiles_and_buildings_01_2
       rect:
         serializedVersion: 2
-        x: 47
+        x: 48
         y: 0
-        width: 242
-        height: 145
+        width: 240
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d1b35b38017f473419e5c21730a49766
     internalID: 0
     vertices: []
     indices: 
